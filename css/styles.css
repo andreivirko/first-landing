@@ -4,7 +4,7 @@
 }
 
 .wrapper {
-    background: url("/image/dark-fog-forest-haze-6992.jpg");
+    /* background: url("/image/dark-fog-forest-haze-6992.jpg"); */
     background-position: center;
     background-size: cover;
     padding-top: 100px;
@@ -35,3 +35,27 @@ h2 {
 .header_nav a:nth-child(2n+1) {
     color: violet;
 }
+p {
+    font-size: 48px;
+    color: tomato !important;
+}
+
+#one {
+    color: coral;
+}
+ .text {
+     color: blue;
+}
+ul > li {
+width: 200px;
+height: 200px;
+}
+
+a:hover,
+a:focus {
+    font-size: 40px;
+}
+h2, p, a {
+    font-style: italic;
+}
+
